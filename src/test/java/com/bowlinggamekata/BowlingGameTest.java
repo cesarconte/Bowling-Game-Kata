@@ -7,7 +7,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class BowlingGameTest {
-    private static final int MAX_FRAMES = 10;
     private BowlingGame bowlingGame;
 
     @BeforeEach

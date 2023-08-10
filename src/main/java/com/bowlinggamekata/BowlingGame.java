@@ -39,7 +39,7 @@ public class BowlingGame {
         }
     }
 
-    protected boolean isStrike(int frameIndex) {
+    private boolean isStrike(int frameIndex) {
         return rolls[frameIndex] == MAX_PINS;
     }
 
