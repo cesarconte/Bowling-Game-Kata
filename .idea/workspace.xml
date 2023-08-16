@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b6a830-c4ca-4a36-9f24-0fa0da87e7c8" name="Changes" comment="Refactor &amp; done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bowlinggamekata/BowlingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bowlinggamekata/BowlingGame.java" afterDir="false" />
-    </list>
+    <list default="true" id="44b6a830-c4ca-4a36-9f24-0fa0da87e7c8" name="Changes" comment="delete variable on BowlingGameTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691653258067</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete variable on BowlingGameTest">
+      <option name="closed" value="true" />
+      <created>1692219038644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692219038644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Refactor &amp; done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor &amp; done" />
+    <MESSAGE value="delete variable on BowlingGameTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete variable on BowlingGameTest" />
   </component>
 </project>
